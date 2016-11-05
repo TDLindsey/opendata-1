@@ -1,8 +1,8 @@
 ---
 layout: page
-title: State Open Data Sites
-nav_title: State Open Data Sites
-nav_level: 1
+title: Presentations Made to the Pay Equity Task Force
+nav_title: Presentations
+nav_level: 2
 ---
 
 ### We profile the following sites in our case studies
