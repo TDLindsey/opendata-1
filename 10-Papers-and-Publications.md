@@ -5,7 +5,7 @@ nav_title: Papers and Publications
 nav_level: 2
 ---
 
-Insert Names, papers and other publications with links.
+Insert names, titles, papers and other publications with links.
 
 
 
