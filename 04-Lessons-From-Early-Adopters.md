@@ -6,7 +6,7 @@ nav_level: 1
 ---
 * [Mission, Goals, and Vision](#mission-goals-and-vision)
 
-### In This Section
+### Mission, Goals, and Vision
 * [Shared Lessons]({{ site.baseurl }}/05-Shared-Lessons)
 * [Governance]({{ site.baseurl }}/06-Governance)
 * [State Policies on Open Data]({{ site.baseurl }}/07-State-Policies-Open-Data)
