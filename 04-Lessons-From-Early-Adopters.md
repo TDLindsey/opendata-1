@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lessons from Early Adopters
-nav_title: Part II. Lessons from Early Adopters
+title: California Pay Equity Task Force
+nav_title: California Pay Equity Task Force
 nav_level: 1
 ---
 
