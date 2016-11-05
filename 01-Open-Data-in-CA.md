@@ -5,7 +5,7 @@ nav_title: Front Material
 nav_level: 1
 ---
 
-### Open Data Definition
+### Front Material
 
 Open data requires more than just transparency. The general consensus is that—at minimum—it must be published without constraints to further public use. This means that open data is:
 
