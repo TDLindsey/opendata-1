@@ -44,9 +44,8 @@ Briefly introduce the problem and response historically in California. History o
 
 ### Response
 
-Once procedures were in place, the team was ready to begin publishing datasets. One department needed to pilot the project; their datasets would test the process and the governance structure. The California Department of Public Health, whose staff had served on the leadership team and had invested significant time in drafting the handbook, volunteered to pilot the project. This made sense – the department was data rich, which resulted in a department culture that valued the project. The department also had the knowledge and abilities to react nimbly when inevitable issues arose during implementation. The Department of Public Health is large – approximately 3,500 staff – which allowed it to respond with the skilled resources required to clean and reformat the data. Finally, choosing Public Health was an important way to acknowledge the departmental resources it had already invested in the project. 
-
-
+1. SB 358. The strongest equal pay law in the country.
+2. Task Force: innovative approach. The role of proactive implementation and the importance of supporting compliance.
 
 <!-- Pagination -->
 <div class="pagination">
