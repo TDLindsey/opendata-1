@@ -1,18 +1,18 @@
 ---
 layout: page
-title: California Health and Human Services Agency&#58; Creating a Culture of Open Data
-nav_title: California Health and Human Services
+title: History of State and Federal Law
+nav_title: History
 nav_level: 2
 ---
 
 
-* [Introduction](#introduction)
+* [Overview](#Overview)
 * [Project Summary](#project-summary)
 * [How Did They Do It?](#how-did-they-do-it)
 * [Challenges](#challenges)
 * [Initial Impact](#initial-impact)
 
-### Introduction
+### Overview
 
 The California Health and Human Services Agency oversees 12 departments and three offices, employs nearly 34,000 staff and administers a budget of $140 billion. In 2014, when the Agency embarked on a unified process to publicly release its non-confidential data, it had a complex task before it. Successfully launching a portal for its public data required executive leadership, a shared vision across diverse programs, commitment by personnel and public-private partnerships. Almost two years later, the project has succeeded, allowing health advocates, civic technologists, journalists and anyone else to access and use data more easily than ever before.  As a result of its success, the Agency plans to continue the open data program as part of a larger effort to better use information and data inside and outside of government. 
 
