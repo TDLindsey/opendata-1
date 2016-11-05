@@ -2,7 +2,7 @@
 layout: page
 title: History of State and Federal Law
 nav_title: History
-nav_level: 2
+nav_level: 1
 ---
 
 
