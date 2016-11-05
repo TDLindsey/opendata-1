@@ -5,7 +5,7 @@ nav_title: Printer Friendly
 nav_level: 1
 ---
 
-This will be all of the information that is in the pages in one document ready for print.
+This will be all of the information that is in the pages in one document ready for print. Must also add ackoledgements page with reference to github and project page. Ackowledge also forking project from CRB.
 
 # Introduction
 
