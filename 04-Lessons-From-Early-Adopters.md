@@ -7,10 +7,11 @@ nav_level: 1
 * [Mission, Goals, and Vision](#mission-goals-and-vision)
 
 ### Mission, Goals, and Vision
-* [Shared Lessons]({{ site.baseurl }}/05-Shared-Lessons)
-* [Governance]({{ site.baseurl }}/06-Governance)
-* [State Policies on Open Data]({{ site.baseurl }}/07-State-Policies-Open-Data)
-* [Privacy and Confidentiality]({{ site.baseurl }}/08-Privacy)
+
+1. Bringing together diverse interests.
+2. Initial subcommittees.
+3. Presentations.
+4. Working definitions.
 
 <!-- Pagination -->
 <div class="pagination">
