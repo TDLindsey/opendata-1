@@ -61,7 +61,11 @@ Briefly introduce the problem and response historically in California. History o
 3. Presentations.
 4. Working definitions.
 
+### Deliverables
 
+1. Large employer guidance.
+2. Small employer guidance.
+3. Employee guidance.
 
 
 # Open Data in California
