@@ -4,55 +4,21 @@ title: Title&#58; Subtitle
 nav_title: Printer Friendly
 nav_level: 1
 ---
-#Print Version
-This will be all of the information that is in the pages in one document ready for print. Must also add acknowledgements page with reference to github and project page. Ackowledge also forking project from CRB.
-#Front material. Cover page, Task Force members and staff, table of contents, letters and/or signatures.
-1. Briefly introduce the problem and response historically in California. History of state and federal laws.
-a.	Overview the problem–the persistence of the gender pay gap.
-i.	National. As it relates to SB 358. What other states are doing? 
-b.	National in focus. Factors contributing to the gender pay gap. 
-i.	Here maybe briefly go over federal law before introducing California.
-c.	California-specific information about the gender pay gap.
-i.	Then: Early Senate Office of Research Report to cite past gender pay gap.
-ii.	Present: California-specific numbers about pay gap.
-d.	Connect past California actions/law to present California actions/law. 
-i.	1985 report from the Comparable Worth Task Force. California Equal Pay Act insufficient to address pay gap then.
-1.	1985 Task Force set to evaluate the problem and make recommendations.
-ii.	SB 358 substantially broadened California’s gender pay differential law. 
-1.	Differences between previous Task Force, law and current Task Force and SB 358.
-e.	Response: 
-i.	SB 358. The strongest equal pay law in the country. 
-ii.	Task Force: innovative approach. The role of proactive implementation and the importance of supporting compliance.
-III.	Enforcement. 
-a.	Current roles of DIR and DFEH. See DFEH Fact Sheet.
-i.	Collaborating.
-ii.	Labor Commissioner’s Office procedures for EPA violation/retaliation  related to EPA.
-IV.	Pay Equity Task Force
-a.	Mission, goals, and vision.
-i.	Bringing together diverse interests.
-ii.	Initial subcommittees.
-iii.	Presentations.
-iv.	Working definitions.
-V.	Deliverables. Union and non-union.
-a.	Large employer guidance.
-b.	Small employer guidance.
-c.	Employee guidance.
-VI.	Looking ahead. 
-i.	Remaining 2017 meetings.
-ii.	Final Report.
-VII.	References.
-VIII.	Appendices.
-a.	Presentations made to the Pay Equity Task Force.
-b.	Papers/publications prepared by Task Force members and staff.
-c.	Statutory History of Equal Pay laws in California and the United States.
-
-
-
 # Introduction
 
 Governments around the world are making data more accessible and more useable. By doing so, they are helping to make government more open, transparent and accountable. With open data, community members, local organizations, businesses and journalists can leverage public information to support new businesses, inform public policy, make fact-based decisions, and encourage greater civic engagement.
 
-In California, a number of state agencies are beginning to implement open data programs. Releasing data isn’t as simple as just flipping a switch, however. These organizations need to plan for privacy, data quality governance structures and a host of other factors. The California Health and Human Services Agency and the State Controller’s Office have completed large-scale open data projects that have considered these issues. This publication reports on their successes, challenges and outcomes. Using shared lessons from these projects and others, the paper also summarizes current state policy on open data, including procurement policies; highlights various privacy laws and guidelines; and provides sample organizational structures for open data teams. 
+# Front Material
+
+1. Cover page
+2. Task Force members and staff
+3. Table of contents will be on the side bar for navigation and also on the index page.
+4. Letters and/or signatures
+
+
+
+
+
 
 # Open Data in California
 
