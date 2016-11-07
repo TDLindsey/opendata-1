@@ -4,8 +4,49 @@ title: Title&#58; Subtitle
 nav_title: Printer Friendly
 nav_level: 1
 ---
-
+#Print Version
 This will be all of the information that is in the pages in one document ready for print. Must also add acknowledgements page with reference to github and project page. Ackowledge also forking project from CRB.
+#Front material. Cover page, Task Force members and staff, table of contents, letters and/or signatures.
+1. Briefly introduce the problem and response historically in California. History of state and federal laws.
+a.	Overview the problem–the persistence of the gender pay gap.
+i.	National. As it relates to SB 358. What other states are doing? 
+b.	National in focus. Factors contributing to the gender pay gap. 
+i.	Here maybe briefly go over federal law before introducing California.
+c.	California-specific information about the gender pay gap.
+i.	Then: Early Senate Office of Research Report to cite past gender pay gap.
+ii.	Present: California-specific numbers about pay gap.
+d.	Connect past California actions/law to present California actions/law. 
+i.	1985 report from the Comparable Worth Task Force. California Equal Pay Act insufficient to address pay gap then.
+1.	1985 Task Force set to evaluate the problem and make recommendations.
+ii.	SB 358 substantially broadened California’s gender pay differential law. 
+1.	Differences between previous Task Force, law and current Task Force and SB 358.
+e.	Response: 
+i.	SB 358. The strongest equal pay law in the country. 
+ii.	Task Force: innovative approach. The role of proactive implementation and the importance of supporting compliance.
+III.	Enforcement. 
+a.	Current roles of DIR and DFEH. See DFEH Fact Sheet.
+i.	Collaborating.
+ii.	Labor Commissioner’s Office procedures for EPA violation/retaliation  related to EPA.
+IV.	Pay Equity Task Force
+a.	Mission, goals, and vision.
+i.	Bringing together diverse interests.
+ii.	Initial subcommittees.
+iii.	Presentations.
+iv.	Working definitions.
+V.	Deliverables. Union and non-union.
+a.	Large employer guidance.
+b.	Small employer guidance.
+c.	Employee guidance.
+VI.	Looking ahead. 
+i.	Remaining 2017 meetings.
+ii.	Final Report.
+VII.	References.
+VIII.	Appendices.
+a.	Presentations made to the Pay Equity Task Force.
+b.	Papers/publications prepared by Task Force members and staff.
+c.	Statutory History of Equal Pay laws in California and the United States.
+
+
 
 # Introduction
 
