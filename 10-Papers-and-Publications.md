@@ -12,7 +12,7 @@ Need to add one more page for Statutory History.
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="09-Open-Data-Sites">&laquo; Prev</a>
-  <span class="pagination-item newer">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/08-Appendices">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/11-Statutory-History">Next &raquo;</a>
 </div>
 
