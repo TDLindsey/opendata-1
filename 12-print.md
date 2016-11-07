@@ -46,6 +46,13 @@ Briefly introduce the problem and response historically in California. History o
 1. SB 358. The strongest equal pay law in the country.
 2. Task Force: innovative approach. The role of proactive implementation and the importance of supporting compliance.
 
+### Current Roles of DIR and DFEH
+
+1. Current roles of DIR and DFEH. See DFEH Fact Sheet.
+  1. Collaborating.
+  1. Labor Commissioner’s Office procedures for EPA violation/retaliation related to EPA.
+    1. [California Department of Industrial Relations](http://www.dir.ca.gov/dlse/California_Equal_Pay_Act.htm)
+    1. [California Department of Fair Housing and Employment](http://www.dfeh.ca.gov/)
 
 
 
