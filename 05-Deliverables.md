@@ -12,6 +12,6 @@ nav_level: 1
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/04-Lessons-From-Early-Adopters">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/06-Governance">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/04-Pay-Equity-Task-Force">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/06-Looking Ahead">Next &raquo;</a>
 </div>
