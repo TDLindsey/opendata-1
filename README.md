@@ -1,6 +1,6 @@
 # California Pay Equity Task Force Interim Report (April 2017)
 ### Contact Information
-Commission on the status of women and Girls for questions or comments (women@women.ca.gov)
+California Commission on the Status of Women and Girls for questions or comments (women@women.ca.gov)
 
 
 
