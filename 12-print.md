@@ -77,6 +77,10 @@ Final Report.
 
 ### References and Useful Websites
  
+## Appendices
+Presentations Made to the Pay Equity Task Force
+Papers and Publications Prepared by Task Force Members and Staff
+Statutory History of Equal Pay Laws in California and the United States
 
 
 
