@@ -18,6 +18,6 @@ nav_level: 1
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/02-CHSS-Case-Study">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/04-Lessons-From-Early-Adopters">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/02-History">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/04-Pay-Equity-Task-Force">Next &raquo;</a>
 </div>
