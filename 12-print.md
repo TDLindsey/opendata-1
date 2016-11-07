@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Making Open Data Work in California's State Government&#58; Lessons from Early Adopters
+title: Title&#58; Subtitle
 nav_title: Printer Friendly
 nav_level: 1
 ---
 
-This will be all of the information that is in the pages in one document ready for print. Must also add ackoledgements page with reference to github and project page. Ackowledge also forking project from CRB.
+This will be all of the information that is in the pages in one document ready for print. Must also add acknowledgements page with reference to github and project page. Ackowledge also forking project from CRB.
 
 # Introduction
 
@@ -393,3 +393,10 @@ The **California Research Bureau** authored this report as part of a **Californi
 ### Design
 
 Like this design? Feel free to use it. Patrick Rogers and Anne Neville forked (i.e. copied) the original at [https://github.com/CAHealthData/toolkit](https://github.com/CAHealthData/toolkit) and made some minor design changes. (Isn't open source great?)
+
+<!-- Pagination -->
+<div class="pagination">
+  <a class="pagination-item older" href="{{ site.baseurl }}/08-Appendices">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/01-Cover-page">Beg &raquo;</a>
+</div>
+
