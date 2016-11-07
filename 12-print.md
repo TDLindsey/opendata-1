@@ -54,6 +54,14 @@ Briefly introduce the problem and response historically in California. History o
     1. [California Department of Industrial Relations](http://www.dir.ca.gov/dlse/California_Equal_Pay_Act.htm)
     1. [California Department of Fair Housing and Employment](http://www.dfeh.ca.gov/)
 
+### Mission, Goals, and Vision
+
+1. Bringing together diverse interests.
+2. Initial subcommittees.
+3. Presentations.
+4. Working definitions.
+
+
 
 
 # Open Data in California
