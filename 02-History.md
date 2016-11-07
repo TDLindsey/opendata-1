@@ -49,6 +49,6 @@ Briefly introduce the problem and response historically in California. History o
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/01-Open-Data-in-CA">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/03-SCO-Case-Study">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/01-Cover-Page">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/03-Enforcement">Next &raquo;</a>
 </div>
