@@ -9,6 +9,6 @@ Insert presentation titles, authors and links to each.
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/08-Privacy">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/10-Acknowledgements">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/08-Appendices">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/10-Papers-and-Publications">Next &raquo;</a>
 </div>
