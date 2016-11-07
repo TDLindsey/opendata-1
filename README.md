@@ -1,6 +1,6 @@
-# Making Open Data Work in State Government: Lessons from Early Adopters (June 2016)
-### A publication that includes research and interviews with state agencies already particpating in open data projects.
-Contact the California Research Bureau at the California State Library for questions or comments (crb@library.ca.gov)
+# California Pay Equity Task Force Interim Report (April 2017)
+### Contact Information
+Commission on the status of women and Girls for questions or comments (women@women.ca.gov)
 
 
 
