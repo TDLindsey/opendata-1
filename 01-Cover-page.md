@@ -9,11 +9,11 @@ nav_level: 1
 
 1. Cover page
 2. Task Force members and staff
-3. Table of contents will be on the side bar for navigation
+3. Table of contents will be on the side bar for navigation and also on the index page.
 4. Letters and/or signatures
 
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/index">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/02-CHSS-Case-Study">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/02-History">Next &raquo;</a>
 </div>
