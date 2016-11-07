@@ -8,9 +8,9 @@ nav_level: 2
 Insert statutory history text.
 
 
-
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="12-print">&laquo; Prev</a>
-  <span class="pagination-item newer">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/12-print">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/8-Appendices">Next &raquo;</a>
 </div>
+
