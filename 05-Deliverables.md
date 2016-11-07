@@ -5,9 +5,9 @@ nav_title: Deliverables
 nav_level: 1
 ---
 
-1. Large employer guidance.
-2. Small employer guidance.
-3. Employee guidance.
+### Large employer guidance.
+### Small employer guidance.
+### Employee guidance.
 
 
 <!-- Pagination -->
