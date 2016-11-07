@@ -4,20 +4,20 @@
 permalink:           none
 
 # Setup
-title:               Making Open Data Work in California's State Government
-tagline:             'Lessons from Early Adopters'
-description:         'Prepared for the California State Library<br /> by the California Research Bureau.'
-url:                 http://library.ca.gov/crb/opendatarefbook
+title:               California Pay Equity Task Force Interim Report
+tagline:             'April 2017'
+description:         'Prepared by the Commission on the Status of Women and Girls'
+url:                need to update this still. http://library.ca.gov/crb/opendatarefbook
 baseurl:             'http://castatelibrary.github.io/opendata'
 paginate:            5
 
 # About/contact
 author:
-  name:              California State Library / California Research Bureau
-  url:               http://library.ca.gov
-  email:             crb@library.ca.gov
+  name:              California Commission on the Status of Women and Girls
+  url:               http://women.ca.gov/
+  email:             women@women.ca.gov
 
 # Custom vars
 version:             1.0
 github:
-  repo:           https://github.com/CAStateLibrary/opendata
+  repo:          need to update this one, too.  https://github.com/CAStateLibrary/opendata
