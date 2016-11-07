@@ -6,8 +6,6 @@ nav_level: 1
 ---
 # Introduction
 
-Governments around the world are making data more accessible and more useable. By doing so, they are helping to make government more open, transparent and accountable. With open data, community members, local organizations, businesses and journalists can leverage public information to support new businesses, inform public policy, make fact-based decisions, and encourage greater civic engagement.
-
 # Front Material
 
 1. Cover page
