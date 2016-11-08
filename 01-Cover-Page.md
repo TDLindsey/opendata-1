@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Interim Report
+title: Front Material
 nav_title: Front Material
 nav_level: 1
 ---
-
-### Front Material
 
 1. Cover page
 2. Task Force members and staff
