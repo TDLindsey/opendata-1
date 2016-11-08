@@ -351,7 +351,7 @@ a.sidebar-nav-item:focus {
   color: #999;
 }
 .related-posts li a:hover {
-  color: #268bd2;
+  color: #E0CCEB;
   text-decoration: none;
 }
 .related-posts li a:hover small {
@@ -548,12 +548,12 @@ a.pagination-item:hover {
 .theme-base-csl .container a,
 .theme-base-csl .sidebar-toggle,
 .theme-base-csl .related-posts li a:hover {
-  color:  #F69922;
+  color:  #FFCC66;
 }
 
 /* Make masthead link different than body */
 .theme-base-csl .container .masthead-title a {
-  color: #F69922;
+  color: #FFCC66;
 }
 
 
