@@ -18,7 +18,7 @@ Write a nice abstract for the report. Update the index with links below.
 * [References]({{ site.baseurl }}//07-References)
 * [Appendices]({{ site.baseurl }}/08-Appendices)
   * [Presentations]({{ site.baseurl }}/09-Presentations)
-  * [Papers and Publications]({{ site.baseurl }}/10-Paper-and-Publications)
+  * [Papers and Publications]({{ site.baseurl }}/10-Papers-and-Publications)
   * [Statutory History]({{ site.baseurl }}/11-Statutory-History)
 <!-- Pagination -->
 <div class="pagination">
