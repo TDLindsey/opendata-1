@@ -127,7 +127,7 @@ Like this design? Feel free to use it. Patrick Rogers and Anne Neville forked (i
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/08-Appendices">&laquo; Prev</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/11-Statutory-History">&laquo; Prev</a>
   <a class="pagination-item newer" href="{{ site.baseurl }}/01-Cover-page">Beg &raquo;</a>
 </div>
 
