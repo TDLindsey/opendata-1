@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deliverables&#58; Union and Non-Union
+title: Deliverables Union and Non-Union
 nav_title: Deliverables
 nav_level: 1
 ---
