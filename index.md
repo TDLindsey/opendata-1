@@ -9,7 +9,7 @@ nav_level: 1
 Write a nice abstract for the report. Update the index with links below.
 
 
-* [Front Material]({{ site.baseurl }}/01-Cover-page)
+* [Front Material]({{ site.baseurl }}/01-Cover-Page)
 * [History]({{ site.baseurl }}/02-History)
 * [Enforcement]({{ site.baseurl }}//03-Enforcement)
 * [Pay Equity Task Force]({{ site.baseurl }}//04-Pay-Equity-Task-Force)
