@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Deliverables: Union and Non-Union
+title: Deliverables&#58; Union and Non&#8211;Union
 nav_title: Deliverables
 nav_level: 1
 ---
 
 ###  Large employer guidance
 
-####  Small employer guidance
+###  Small employer guidance
 
-#### Employee guidance
+### Employee guidance
 
 
 
