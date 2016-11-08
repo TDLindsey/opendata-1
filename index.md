@@ -23,5 +23,5 @@ Write a nice abstract for the report. Update the index with links below.
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older">&nbsp;</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/01-Cover-page">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/01-Cover-Page">Next &raquo;</a>
 </div>
