@@ -6,7 +6,7 @@ permalink:           none
 # Setup
 title:               California Pay Equity Task Force Interim Report
 tagline:             'April 2017'
-description:         'Prepared by the Commission on the Status of Women and Girls'
+description:        'Prepared for the Pay Equity Task Force<br /> by the California Commission on the Status of Women and Girls.'
 url:                http://women.ca.gov/interimreport
 baseurl:             'https://tdlindsey.github.io/opendata-1/'
 paginate:            5
