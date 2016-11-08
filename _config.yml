@@ -12,8 +12,8 @@ baseurl:             'http://castatelibrary.github.io/opendata'
 paginate:            5
 
 # Setup
-title:               California Pay Equity Task Force Interim Report
-tagline:             'April 2017'
+title:               California Pay Equity Task Force
+tagline:             'April 2017 Interim Report'
 description:        'Prepared by the<br /> California Commission on the Status of Women and Girls.'
 url:                http://women.ca.gov/interimreport
 baseurl:             'https://tdlindsey.github.io/opendata-1/'
