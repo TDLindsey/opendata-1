@@ -47,7 +47,7 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #00446a;
+  color: #660099;
   letter-spacing: -.025rem;
 }
 
@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #00446a;
+  color: #660099;
   letter-spacing: 0;
 }
 
@@ -218,7 +218,7 @@ a.sidebar-nav-item:focus {
   left: 1rem;
   display: block;
   padding: .25rem .75rem;
-  color: #00446a;
+  color: #660099;
   background-color: #fff;
   border-radius: .25rem;
   cursor: pointer;
@@ -229,26 +229,26 @@ a.sidebar-nav-item:focus {
   width: 1rem;
   height: .75rem;
   content: "";
-  background-image: -webkit-linear-gradient(to bottom, #00446a, #00446a 20%, #fff 20%, #fff 40%, #00446a 40%, #00446a 60%, #fff 60%, #fff 80%, #00446a 80%, #00446a 100%);
-  background-image:    -moz-linear-gradient(to bottom, #00446a, #00446a 20%, #fff 20%, #fff 40%, #00446a 40%, #00446a 60%, #fff 60%, #fff 80%, #00446a 80%, #00446a 100%);
-  background-image:     -ms-linear-gradient(to bottom, #00446a, #00446a 20%, #fff 20%, #fff 40%, #00446a 40%, #00446a 60%, #fff 60%, #fff 80%, #00446a 80%, #00446a 100%);
-  background-image:         linear-gradient(to bottom, #00446a, #00446a 20%, #fff 20%, #fff 40%, #00446a 40%, #00446a 60%, #fff 60%, #fff 80%, #00446a 80%, #00446a 100%);
+  background-image: -webkit-linear-gradient(to bottom, #660099,#660099 20%, #fff 20%, #fff 40%, #660099 40%, #660099 60%, #fff 60%, #fff 80%, #660099 80%, #660099 100%);
+  background-image:    -moz-linear-gradient(to bottom, #660099, #660099 20%, #fff 20%, #fff 40%, #660099 40%, #660099 60%, #fff 60%, #fff 80%, #660099 80%, #660099 100%);
+  background-image:     -ms-linear-gradient(to bottom, #660099, #660099 20%, #fff 20%, #fff 40%, #660099 40%, #660099 60%, #fff 60%, #fff 80%, #660099 80%, #660099 100%);
+  background-image:         linear-gradient(to bottom, #660099, #660099 20%, #fff 20%, #fff 40%, #660099 40%, #660099 60%, #fff 60%, #fff 80%, #660099 80%, #660099 100%);
 }
 
 .sidebar-toggle:active,
 #sidebar-checkbox:focus ~ .sidebar-toggle,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   color: #fff;
-  background-color: #00446a;
+  background-color: #660099;
 }
 
 .sidebar-toggle:active:before,
 #sidebar-checkbox:focus ~ .sidebar-toggle:before,
 #sidebar-checkbox:checked ~ .sidebar-toggle:before {
-  background-image: -webkit-linear-gradient(to bottom, #fff, #fff 20%, #00446a 20%, #00446a 40%, #fff 40%, #fff 60%, #00446a 60%, #00446a 80%, #fff 80%, #fff 100%);
-  background-image:    -moz-linear-gradient(to bottom, #fff, #fff 20%, #00446a 20%, #00446a 40%, #fff 40%, #fff 60%, #00446a 60%, #00446a 80%, #fff 80%, #fff 100%);
-  background-image:     -ms-linear-gradient(to bottom, #fff, #fff 20%, #00446a 20%, #00446a 40%, #fff 40%, #fff 60%, #00446a 60%, #00446a 80%, #fff 80%, #fff 100%);
-  background-image:         linear-gradient(to bottom, #fff, #fff 20%, #00446a 20%, #00446a 40%, #fff 40%, #fff 60%, #00446a 60%, #00446a 80%, #fff 80%, #fff 100%);
+  background-image: -webkit-linear-gradient(to bottom, #fff, #fff 20%, #660099 20%, #660099 40%, #fff 40%, #fff 60%, #660099 60%, #660099 80%, #fff 80%, #fff 100%);
+  background-image:    -moz-linear-gradient(to bottom, #fff, #fff 20%, #660099 20%, #660099 40%, #fff 40%, #fff 60%, #660099 60%, #660099 80%, #fff 80%, #fff 100%);
+  background-image:     -ms-linear-gradient(to bottom, #fff, #fff 20%, #660099 20%, #660099 40%, #fff 40%, #fff 60%, #660099 60%, #660099 80%, #fff 80%, #fff 100%);
+  background-image:         linear-gradient(to bottom, #fff, #fff 20%, #660099 20%, #660099 40%, #fff 40%, #fff 60%, #660099 60%, #660099 80%, #fff 80%, #fff 100%);
 }
 
 @media (min-width: 30.1em) {
@@ -318,7 +318,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #00446a;
+  color: #660099;
 }
 .page-title,
 .post-title {
@@ -539,11 +539,11 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
-/* CA State Library Color */
+/* Commission on the Status of Women and Girls*/
 .theme-base-csl .sidebar,
 .theme-base-csl .sidebar-toggle:active,
 .theme-base-csl #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #00446a;
+  background-color: #660099;
 }
 .theme-base-csl .container a,
 .theme-base-csl .sidebar-toggle,
